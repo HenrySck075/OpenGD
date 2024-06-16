@@ -34,8 +34,7 @@
 </div>
 
 
-# UNMAINTAINED
-new (unfinished) projects are [gdrender](https://github.com/maxnut/gdrender) and [gdclone](https://github.com/opstic/gdclone)
+# 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
