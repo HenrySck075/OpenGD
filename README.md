@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Stereo Madness running in OpenGD](https://cdn.discordapp.com/attachments/847950548921614366/1086798200146497647/6046uyhlekoa1.png "OpenGD")
+![Stereo Madness running in OpenGD](https://static.wikia.nocookie.net/miiversepedia/images/7/7e/Miiverse_Yeah%21_Button.png/revision/latest?cb=20240615133602)
 
 
 OpenGD is an open-source implementation of the popular game Geometry Dash. Our main goal is to remake the gameplay 1:1, while also improving performance through new engine features and C++ enhancements. We also plan to implement multithreading in the future.
